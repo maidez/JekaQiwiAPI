@@ -11,7 +11,7 @@ final class Statuses
     /** Оплачен */
     const COMPLETED = 60;
     const CANCEL_TERMENAL_ERROR = 150;
-    /** Отменен по разным причаинам, недостаток средств итд.. */
+    /** Отменен по разным причинам, недостаток средств итд.. */
     const CANCEL_ERROR = 151;
     const CANCEL = 160;
     const CANCEL_TIMEOUT = 161;
